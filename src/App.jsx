@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import AuthLayout from "./layout/AuthLayout";
 import RutaProtegida from "./layout/RutaProtegida";
 
-import Login from "./pages/login";
+import Login from "./pages/Login";
 import Registrar from "./pages/Registrar";
 import ConfirmarCuenta from "./pages/ConfirmarCuenta";
 import OlvidePassword from "./pages/OlvidePassword";
